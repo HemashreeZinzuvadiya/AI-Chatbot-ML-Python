@@ -45,6 +45,9 @@ PyBot: I'm PyBot, your ML-powered assistant.
 4. **Response:** The bot replies with a randomly selected response from the predicted intent category
 
 ---
+## 🖼️ GUI Screenshot
+
+![Chatbot GUI](chatbot_gui.png)
 
 ## ▶️ How to Run
 
